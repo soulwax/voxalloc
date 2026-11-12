@@ -1,0 +1,11 @@
+name: voxalloc
+description: Pure Dart linear frame bump arena, generational slab pool & hierarchical frame telemetry recorder.
+version: 0.1.0
+repository: https://github.com/soulwax/voxalloc
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
